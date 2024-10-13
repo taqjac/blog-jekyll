@@ -1,3 +1,11 @@
-title: Meu Blog
+title: DETERITUS
 description: "Um blog simples"
 theme: minima
+author:
+  name: "Tiago Jacinto"
+  email: "tajacinto@gmail.com"
+  twitter: "taqjac"
+permalink: /:title/
+footer:
+  copyright: "© 2024 Tiago - Todos os direitos reservados."
+  powered_by: "Jekyll"
